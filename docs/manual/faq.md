@@ -1,12 +1,12 @@
-# Frequently Asked Questions
+# Frequently Asked Questions(سوالات پرتکرار)
 
 ## General
 
-### Is Julia named after someone or something?
+### Is Julia named after someone or something?(ایا اسم جولیا برگرفته از کسی یا چیزی است )
 
-No.
+خیر
 
-### Why don't you compile Matlab/Python/R/… code to Julia?
+### Why don't you compile Matlab/Python/R/… code to Julia?(چرا کد های این زبانها با جولیا اجرا نمیشود؟)
 
 Since many people are familiar with the syntax of other dynamic languages, and lots of code has already been written in those languages, it is natural to wonder why we didn't just plug a Matlab or Python front-end into a Julia back-end (or “transpile” code to Julia) in order to get all the performance benefits of Julia without requiring programmers to learn a new language.  Simple, right?
 
